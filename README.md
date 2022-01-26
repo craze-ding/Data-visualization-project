@@ -1,4 +1,4 @@
-# COVID-19_Tracking
+# Data-visualization-project
 基于 Python+Flask+Echarts 的疫情爬虫&amp;数据可视化项目
 
 
